@@ -1,9 +1,6 @@
 Typing SVG
 
-role: "Backend Developer & CS Student"
-focus: ["System Design", "API Development", "Database Optimization"]
-languages: ["Python", "TypeScript", "JavaScript", "C#", "C++"]
-databases: ["PostgreSQL", "MongoDB", "MySQL"]
+role: "Backend Developer & CS Student"focus: ["System Design", "API Development", "Database Optimization"]languages: ["Python", "TypeScript", "JavaScript", "C#", "C++"]databases: ["PostgreSQL", "MongoDB", "MySQL"]
 
 <br>
 
@@ -22,23 +19,23 @@ databases: ["PostgreSQL", "MongoDB", "MySQL"]
 <br>
 
 📊 GitHub Stats
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=amirdrgo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirdrgo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=یوزرنیم_شما&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=یوزرنیم_شما&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
 
 <br>
 
 🐍 Contribution Graph
+<!-- مار انیمیشنی (نیاز به تنظیم اکشن دارد) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirdrgo/amirdrgo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirdrgo/amirdrgo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amirdrgo/amirdrgo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/یوزرنیم_شما/یوزرنیم_شما/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/یوزرنیم_شما/یوزرنیم_شما/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/یوزرنیم_شما/یوزرنیم_شما/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <br>
 
 📫 Contact Me
 
-<a href="mailto:AmirRedox2008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://t.me/Redox086"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="https://github.com/amirdrgo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</div>
+<a href="mailto:ایمیل_شما@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://t.me/آیدی_تلگرام_شما"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://github.com/یوزرنیم_شما"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"
