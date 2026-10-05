@@ -4,23 +4,16 @@
 
  $ cat about_me.json
 
-json
- 
-  
+   
  
  
-{
-  "role": "Backend Developer & CS Student",
-  "focus": ["System Design", "API Development", "Database Optimization"],
-  "languages": ["Python", "TypeScript", "JavaScript", "C#", "C++"],
-  "runtimes": ["Node.js", ".NET"],
-  "databases": ["PostgreSQL", "MongoDB", "MySQL"],
-  "current_learning": "Distributed Systems & Microservices",
-  "ask_me_about": "Backend Architecture, Clean Code, OOP Concepts"
-}
- 
- 
-<br>
+ Backend Developer & CS Student
+ focus : API Development,Database Optimization
+ languages: Python", TypeScript ,JavaScript, C#, C++
+ runtimes : Node.js .NET
+ databases : PostgreSQL ,MongoDB, MySQL, Redis
+ current_learning : "Distributed Systems & Microservices, Backend
+
 
 🚀 Tech Arsenal
 <div align="center">
@@ -55,18 +48,18 @@ Databases & Tools:
 <div align="center">
   
 <!-- آمار و زبان‌ها -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=یوزرنیم_شما&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AmirRedox2008&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=یوزرنیم_شما&layout=compact&theme=radical&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
 
 <br>
 
 <!-- استریک‌ها (روزهای پشت سر هم کد زدن) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=یوزرنیم_شما&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF0080&currStreakLabel=00F5FF" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirRedox2008&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF0080&currStreakLabel=00F5FF" alt="Streak Stats" />
 
 
 
 <!-- گراف فعالیت نئونی -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=یوزرنیم_شما&theme=react-dark&hide_border=true&area=true&color=00F5FF&line=00F5FF&point=FF0080" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirRedox2008&theme=react-dark&hide_border=true&area=true&color=00F5FF&line=00F5FF&point=FF0080" alt="Activity Graph" />
 
 </div>
 
@@ -84,9 +77,9 @@ Databases & Tools:
 🐍 Watch my contributions get eaten!
 <!-- اینجا مار انیمیشنی قرار میگیره که نیاز به ست کردن اکشن دارد -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/یوزرنیم_شما/یوزرنیم_شما/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/یوزرنیم_شما/یوزرنیم_شما/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/یوزرنیم_شما/یوزرنیم_شما/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/یوزرنیم_شما/AmirRedox2008/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/یوزرنیم_شما/AmirRedox2008/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmirRedox2008/AmirRedox2008/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 
@@ -97,14 +90,14 @@ Databases & Tools:
 <div align="center">
   
 
-<a href="mailto:ایمیل_شما@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://linkedin.com/in/آیدی_لینکدین_شما"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/یوزرنیم_شما"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:amirdrgo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://linkedin.com/in/AmirRedox2008"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/AmirRedox2008"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 
 
 
-<img src="https://komarev.com/ghpvc/?username=یوزرنیم_شما&style=flat-square&color=00F5FF&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AmirRedox2008&style=flat-square&color=00F5FF&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <p align="center">
