@@ -1,106 +1,69 @@
-  Typing SVG
+import React from 'react';
 
-🧑‍💻 whoami
+const GithubProfile = () => {
+  return (
+    <div className="min-h-screen bg-[#0D1117] text-white flex flex-col items-center justify-center p-6 font-mono">
+      
+      {/* Header Animation */}
+      <h1 className="text-3xl md:text-4xl font-bold text-cyan-400 mb-8 animate-pulse">
+        Backend Developer 👨‍💻
+      </h1>
 
- $ cat about_me.json
+      {/* Terminal Style About Me */}
+      <div className="bg-[#161B22] border border-gray-700 rounded-lg shadow-xl p-6 w-full max-w-2xl mb-8">
+        <div className="flex space-x-2 mb-4">
+          <div className="w-3 h-3 rounded-full bg-red-500"></div>
+          <div className="w-3 h-3 rounded-full bg-yellow-500"></div>
+          <div className="w-3 h-3 rounded-full bg-green-500"></div>
+        </div>
+        <pre className="text-sm text-gray-300 whitespace-pre-wrap">
+{`role: "Backend Developer & CS Student"
+focus: ["System Design", "API Development", "Database Optimization"]
+languages: ["Python", "TypeScript", "JavaScript", "C#", "C++"]
+databases: ["PostgreSQL", "MongoDB", "MySQL"]`}
+        </pre>
+      </div>
 
-   
- 
- 
- Backend Developer & CS Student
- focus : API Development,Database Optimization
- languages: Python", TypeScript ,JavaScript, C#, C++
- runtimes : Node.js .NET
- databases : PostgreSQL ,MongoDB, MySQL, Redis
- current_learning : "Distributed Systems & Microservices, Backend
+      {/* Tech Stack Badges */}
+      <div className="flex flex-wrap justify-center gap-2 mb-8">
+        {['Python', 'TypeScript', 'C#', 'C++', 'Node.js', 'PostgreSQL', 'MongoDB'].map((tech) => (
+          <span key={tech} className="px-3 py-1 bg-[#21262D] border border-gray-600 text-gray-300 text-sm rounded-md hover:border-cyan-400 hover:text-cyan-400 transition-colors cursor-default">
+            {tech}
+          </span>
+        ))}
+      </div>
 
+      {/* Contact Buttons */}
+      <div className="flex flex-wrap justify-center gap-4">
+        <a 
+          href="https://github.com/AmirRedox2008" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className="flex items-center gap-2 bg-gray-800 hover:bg-gray-700 border border-gray-600 text-white px-4 py-2 rounded-md transition-all hover:scale-105"
+        >
+          <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.555 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.92 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+          GitHub
+        </a>
+        <a 
+          href="https://t.me/Redox086" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className="flex items-center gap-2 bg-blue-600 hover:bg-blue-500 px-4 py-2 rounded-md transition-all hover:scale-105"
+        >
+          <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.894 8.221l-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.446 1.394c-.14.18-.357.295-.6.295-.002 0-.003 0-.005 0l.213-3.054 5.56-5.022c.24-.213-.054-.334-.373-.121l-6.869 4.326-2.972-.924c-.64-.203-.658-.643.135-.953l11.566-4.458c.538-.196 1.006.128.832.941z"/></svg>
+          Telegram
+        </a>
+        <a 
+          href="mailto:amirdrgo@gmail.com" 
+          className="flex items-center gap-2 bg-red-600 hover:bg-red-500 px-4 py-2 rounded-md transition-all hover:scale-105"
+        >
+          <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+          Gmail
+        </a>
+      </div>
+      
+    </div>
+  );
+};
 
-🚀 Tech Arsenal
-<div align="center">
-
-Languages & Runtimes:
-
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-
-
-Databases & Tools:
-
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-📊 GitHub Analytics & Streaks
-<div align="center">
-  
-<!-- آمار و زبان‌ها -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AmirRedox2008&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=یوزرنیم_شما&layout=compact&theme=radical&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
-
-<br>
-
-<!-- استریک‌ها (روزهای پشت سر هم کد زدن) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirRedox2008&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF0080&currStreakLabel=00F5FF" alt="Streak Stats" />
-
-
-
-<!-- گراف فعالیت نئونی -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirRedox2008&theme=react-dark&hide_border=true&area=true&color=00F5FF&line=00F5FF&point=FF0080" alt="Activity Graph" />
-
-</div>
-
-<br>
-
-🏆 GitHub Trophies
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=یوزرنیم_شما&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-
-</div>
-
-<br>
-
-🐍 Watch my contributions get eaten!
-<!-- اینجا مار انیمیشنی قرار میگیره که نیاز به ست کردن اکشن دارد -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/یوزرنیم_شما/AmirRedox2008/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/یوزرنیم_شما/AmirRedox2008/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmirRedox2008/AmirRedox2008/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-📫 Connect with me
-<div align="center">
-  
-
-<a href="mailto:amirdrgo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://linkedin.com/in/AmirRedox2008"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/AmirRedox2008"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
-
-
-
-<img src="https://komarev.com/ghpvc/?username=AmirRedox2008&style=flat-square&color=00F5FF&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<p align="center">
-  <i>“Talk is cheap. Show me the code.” — Linus Torvalds</i> 🐧
-</p>
-```
+export default GithubProfile;
