@@ -46,8 +46,8 @@ Databases & Tools:
 <div align="center">
   
 <!-- آمار و زبان‌ها -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=یوزرنیم_شما&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=یوزرنیم_شما&layout=compact&theme=radical&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AmirRedox2008&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRedox2008&layout=compact&theme=radical&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
 
 <br>
 
