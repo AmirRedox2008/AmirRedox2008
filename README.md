@@ -1,13 +1,13 @@
  
  
 {
-  "role": "Backend Developer & CS Student",
-  "focus": ["System Design", "API Development", "Database Optimization"],
-  "languages": ["Python", "TypeScript", "JavaScript", "C#", "C++"],
-  "runtimes": ["Node.js", ".NET"],
-  "databases": ["PostgreSQL", "MongoDB", "MySQL"],
-  "current_learning": "Distributed Systems & Microservices",
-  "ask_me_about": "Backend Architecture, Clean Code, OOP Concepts"
+   role : Backend Developer & CS Student,
+   focus : System Design  API Development Database Optimization,
+  languages : Python, TypeScript, JavaScript, C#, C++,
+  runtimes : Node.js, .NET,
+  databases": PostgreSQL", MongoDB, MySQL,
+  current_learning : Distributed Systems & Microservices,
+  ask_me_about : Backend Architecture, Clean Code, OOP Concepts
 }
  
  
