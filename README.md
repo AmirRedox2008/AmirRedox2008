@@ -1,14 +1,16 @@
  
  
-{
-   role : Backend Developer & CS Student,
-   focus : System Design  API Development Database Optimization,
-  languages : Python, TypeScript, JavaScript, C#, C++,
-  runtimes : Node.js, .NET,
-  databases": PostgreSQL", MongoDB, MySQL,
-  current_learning : Distributed Systems & Microservices,
-  ask_me_about : Backend Architecture, Clean Code, OOP Concepts
-}
+I am a full-stack web developer specializing in backend development and
+database-driven applications. I build clean, scalable, and maintainable
+software using Python (FastAPI), Node.js, and the .NET framework, following
+OOP principles and clean-code practices. My core expertise includes designing
+RESTful APIs, developing responsive front-end interfaces with HTML, CSS,
+JavaScript, and TypeScript, and working with both relational and NoSQL
+databases such as PostgreSQL, MySQL, and MongoDB. In addition, I have
+hands-on experience in web scraping and automation with BeautifulSoup and
+Selenium, as well as building Telegram bots. I focus on writing
+well-structured code, communicating clearly, and delivering every project
+on time.
  
  
 <br>
@@ -45,18 +47,16 @@ Databases & Tools:
 📊 GitHub Analytics & Streaks
 <div align="center">
   
-<!-- آمار و زبان‌ها -->
+
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AmirRedox2008&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRedox2008&layout=compact&theme=radical&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
 
 <br>
 
-<!-- استریک‌ها (روزهای پشت سر هم کد زدن) -->
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirRedox2008&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF0080&currStreakLabel=00F5FF" alt="Streak Stats" />
 
-
-
-<!-- گراف فعالیت نئونی -->
+ 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirRedox2008&theme=react-dark&hide_border=true&area=true&color=00F5FF&line=00F5FF&point=FF0080" alt="Activity Graph" />
 
 </div>
