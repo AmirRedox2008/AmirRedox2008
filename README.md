@@ -15,7 +15,7 @@ on time.
  
 <br>
 
-🚀 Tech Arsenal
+
 <div align="center">
 
 Languages & Runtimes:
