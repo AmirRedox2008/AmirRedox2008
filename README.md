@@ -2,7 +2,7 @@
  
 I am a full-stack web developer specializing in backend development and
 database-driven applications. I build clean, scalable, and maintainable
-software using Python (FastAPI), Node.js, and the .NET framework, following
+software using Python (FastAPI), Node.js, following
 OOP principles and clean-code practices. My core expertise includes designing
 RESTful APIs, developing responsive front-end interfaces with HTML, CSS,
 JavaScript, and TypeScript, and working with both relational and NoSQL
