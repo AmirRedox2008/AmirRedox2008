@@ -5,7 +5,7 @@ database applications. I build clean, scalable, and maintainable
 software using Python (FastAPI), Node.js, following
 OOP principles and clean-code practices. My core expertise includes designing
 RESTful APIs, developing responsive front-end interfaces with HTML, CSS,
-JavaScript, and TypeScript, and working with both relational and NoSQL
+JavaScript, and TypeScript,express.js, and working with both relational and NoSQL
 databases such as PostgreSQL, MySQL, and MongoDB. In addition, I have
 hands-on experience in web scraping and automation with BeautifulSoup and
 Selenium, as well as building Telegram bots. I focus on writing
