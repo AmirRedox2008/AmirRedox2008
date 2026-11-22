@@ -1,7 +1,7 @@
  
  
-I am a full-stack web developer specializing in backend development and
-database-driven applications. I build clean, scalable, and maintainable
+I am a developer specializing in backend development and
+database applications. I build clean, scalable, and maintainable
 software using Python (FastAPI), Node.js, following
 OOP principles and clean-code practices. My core expertise includes designing
 RESTful APIs, developing responsive front-end interfaces with HTML, CSS,
@@ -26,7 +26,6 @@ Languages & Runtimes:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 
 
 
